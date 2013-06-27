@@ -7,3 +7,8 @@ Package.on_use(function (api) {
     'dimsum/dimsum.js'
   ], ['client', 'server']);
 });
+
+Package.on_test(function (api) {
+  api.use(['dimsum', 'tinytest', 'test-helpers'], ['client', 'server']);
+  api.add_files('tests.js', ['client', 'server']);
+});
