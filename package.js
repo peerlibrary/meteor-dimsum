@@ -3,8 +3,11 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
+  api.export('dimsum');
+
   api.add_files([
-    'dimsum/dimsum.js'
+    'dimsum/dimsum.js',
+    'export-dimsum.js'
   ], ['client', 'server']);
 });
 
