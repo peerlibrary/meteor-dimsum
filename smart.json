@@ -3,6 +3,6 @@
   "description": "Meteor smart package for dimsum node.js package, a lorem ipsum generator",
   "homepage": "https://github.com/peerlibrary/meteor-dimsum",
   "author": "The PeerLibrary Project",
-  "version": "0.1.8.2",
+  "version": "0.1.8.3",
   "git": "https://github.com/peerlibrary/meteor-dimsum.git"
 }
