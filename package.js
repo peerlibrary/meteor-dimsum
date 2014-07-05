@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Meteor smart package for dimsum node.js package, a lorem ipsum generator"
+  summary: "A lorem ipsum generator, generating a filler text for placeholder content"
 });
 
 Package.on_use(function (api) {

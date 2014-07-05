@@ -1,6 +1,6 @@
 {
   "name": "dimsum",
-  "description": "Meteor smart package for dimsum node.js package, a lorem ipsum generator",
+  "description": "A lorem ipsum generator, generating a filler text for placeholder content",
   "homepage": "https://github.com/peerlibrary/meteor-dimsum",
   "author": "The PeerLibrary Project",
   "version": "0.1.8.3",
