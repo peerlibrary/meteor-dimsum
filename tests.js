@@ -1,4 +1,4 @@
-Tinytest.add('meteor-dimsum', function (test) {
+Tinytest.add('dimsum', function (test) {
   var isDefined = false;
   try {
     dimsum;
