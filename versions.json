@@ -5,6 +5,10 @@
       "1.0.3"
     ],
     [
+      "peerlibrary:dimsum",
+      "0.1.8-5"
+    ],
+    [
       "underscore",
       "1.0.0"
     ]
