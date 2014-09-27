@@ -1,12 +1,12 @@
 Package.describe({
   summary: "A lorem ipsum generator, generating a filler text for placeholder content",
-  version: '0.1.8-5',
+  version: '0.1.8_6',
   name: 'peerlibrary:dimsum',
   git: 'https://github.com/peerlibrary/meteor-dimsum.git'
 });
 
 Package.on_use(function (api) {
-  api.versionsFrom('METEOR@0.9.1.1');
+  api.versionsFrom('METEOR@0.9.3');
   api.export('dimsum');
 
   api.add_files([
