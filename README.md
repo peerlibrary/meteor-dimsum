@@ -12,5 +12,5 @@ Installation
 ------------
 
 ```
-mrt add dimsum
+meteor add peerlibrary:dimsum
 ```
